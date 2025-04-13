@@ -1,4 +1,4 @@
-# Task3  
+# Using SQL to Extract and analyze Data from the DataSet (Task3).  
 In this task I had created a dataset and I started analysizing the data set using SQL where I performed cleaning First and after that I remove Null and duplicates where I can get accurate values.    
 Firstly I used some sort of Bussiness question and answersing them Clearly by writing SQL code and getting insight from that.  
 After that I create view for every Question so that every one can easily accessable it.  
